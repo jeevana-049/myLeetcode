@@ -69,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jeevana-049/myLeetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jeevana-049/myLeetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/jeevana-049/myLeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jeevana-049/myLeetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jeevana-049/myLeetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/jeevana-049/myLeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
