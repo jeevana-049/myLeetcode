@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jeevana-049/myLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jeevana-049/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/jeevana-049/myLeetcode/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/jeevana-049/myLeetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/jeevana-049/myLeetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/jeevana-049/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jeevana-049/myLeetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jeevana-049/myLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jeevana-049/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jeevana-049/myLeetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jeevana-049/myLeetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jeevana-049/myLeetcode/tree/master/0409-longest-palindrome) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jeevana-049/myLeetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
@@ -121,4 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
