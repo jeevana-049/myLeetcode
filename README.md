@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jeevana-049/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/jeevana-049/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/jeevana-049/myLeetcode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/jeevana-049/myLeetcode/tree/master/0724-find-pivot-index) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jeevana-049/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/jeevana-049/myLeetcode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jeevana-049/myLeetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jeevana-049/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/jeevana-049/myLeetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jeevana-049/myLeetcode/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
