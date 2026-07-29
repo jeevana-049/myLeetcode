@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/jeevana-049/myLeetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/jeevana-049/myLeetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3206-alternating-groups-i](https://github.com/jeevana-049/myLeetcode/tree/master/3206-alternating-groups-i) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevana-049/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevana-049/myLeetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3206-alternating-groups-i](https://github.com/jeevana-049/myLeetcode/tree/master/3206-alternating-groups-i) |
 ## Two Pointers
 |  |
 | ------- |
