@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jeevana-049/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jeevana-049/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
