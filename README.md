@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
+| [1837-sum-of-digits-in-base-k](https://github.com/jeevana-049/myLeetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jeevana-049/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
