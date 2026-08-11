@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jeevana-049/myLeetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/jeevana-049/myLeetcode/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/jeevana-049/myLeetcode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jeevana-049/myLeetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/jeevana-049/myLeetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
