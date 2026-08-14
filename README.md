@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jeevana-049/myLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jeevana-049/myLeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jeevana-049/myLeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevana-049/myLeetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jeevana-049/myLeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -148,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jeevana-049/myLeetcode/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jeevana-049/myLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevana-049/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevana-049/myLeetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3206-alternating-groups-i](https://github.com/jeevana-049/myLeetcode/tree/master/3206-alternating-groups-i) |
 ## Two Pointers
 |  |
