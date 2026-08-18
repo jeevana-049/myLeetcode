@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jeevana-049/myLeetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/jeevana-049/myLeetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/jeevana-049/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jeevana-049/myLeetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/jeevana-049/myLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jeevana-049/myLeetcode/tree/master/0136-single-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jeevana-049/myLeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevana-049/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/jeevana-049/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jeevana-049/myLeetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jeevana-049/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jeevana-049/myLeetcode/tree/master/0217-contains-duplicate) |
@@ -216,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jeevana-049/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
