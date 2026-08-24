@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/jeevana-049/myLeetcode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/jeevana-049/myLeetcode/tree/master/0724-find-pivot-index) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jeevana-049/myLeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jeevana-049/myLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jeevana-049/myLeetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jeevana-049/myLeetcode/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/jeevana-049/myLeetcode/tree/master/0575-distribute-candies) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jeevana-049/myLeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jeevana-049/myLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jeevana-049/myLeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jeevana-049/myLeetcode/tree/master/0206-reverse-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jeevana-049/myLeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
