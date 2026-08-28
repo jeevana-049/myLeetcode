@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jeevana-049/myLeetcode/tree/master/0050-powx-n) |
+| [0367-valid-perfect-square](https://github.com/jeevana-049/myLeetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/jeevana-049/myLeetcode/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/jeevana-049/myLeetcode/tree/master/0908-smallest-range-i) |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jeevana-049/myLeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/jeevana-049/myLeetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
