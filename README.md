@@ -80,15 +80,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Prefix Sum
 |  |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
