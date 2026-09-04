@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3206-alternating-groups-i](https://github.com/jeevana-049/myLeetcode/tree/master/3206-alternating-groups-i) |
+| [3903-smallest-stable-index-i](https://github.com/jeevana-049/myLeetcode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/jeevana-049/myLeetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/jeevana-049/myLeetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/jeevana-049/myLeetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/jeevana-049/myLeetcode/tree/master/3903-smallest-stable-index-i) |
 ## Design
 |  |
 | ------- |
