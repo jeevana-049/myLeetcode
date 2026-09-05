@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/jeevana-049/myLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jeevana-049/myLeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/jeevana-049/myLeetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jeevana-049/myLeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/jeevana-049/myLeetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/jeevana-049/myLeetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
