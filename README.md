@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jeevana-049/myLeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jeevana-049/myLeetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jeevana-049/myLeetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/jeevana-049/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/jeevana-049/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jeevana-049/myLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jeevana-049/myLeetcode/tree/master/0303-range-sum-query-immutable) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jeevana-049/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jeevana-049/myLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jeevana-049/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/jeevana-049/myLeetcode/tree/master/0724-find-pivot-index) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevana-049/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/jeevana-049/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevana-049/myLeetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevana-049/myLeetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jeevana-049/myLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/jeevana-049/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/jeevana-049/myLeetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jeevana-049/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
