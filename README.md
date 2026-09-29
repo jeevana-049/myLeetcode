@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jeevana-049/myLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jeevana-049/myLeetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3206-alternating-groups-i](https://github.com/jeevana-049/myLeetcode/tree/master/3206-alternating-groups-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jeevana-049/myLeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/jeevana-049/myLeetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
