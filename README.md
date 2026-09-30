@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/jeevana-049/myLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jeevana-049/myLeetcode/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jeevana-049/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jeevana-049/myLeetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/jeevana-049/myLeetcode/tree/master/0881-boats-to-save-people) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/jeevana-049/myLeetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jeevana-049/myLeetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevana-049/myLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jeevana-049/myLeetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/jeevana-049/myLeetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/jeevana-049/myLeetcode/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [2582-pass-the-pillow](https://github.com/jeevana-049/myLeetcode/tree/master/2582-pass-the-pillow) |
 ## Divide and Conquer
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jeevana-049/myLeetcode/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
