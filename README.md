@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jeevana-049/myLeetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevana-049/myLeetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/jeevana-049/myLeetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jeevana-049/myLeetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeevana-049/myLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jeevana-049/myLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
