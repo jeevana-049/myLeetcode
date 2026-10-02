@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/jeevana-049/myLeetcode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/jeevana-049/myLeetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jeevana-049/myLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jeevana-049/myLeetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevana-049/myLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jeevana-049/myLeetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/jeevana-049/myLeetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jeevana-049/myLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jeevana-049/myLeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jeevana-049/myLeetcode/tree/master/0875-koko-eating-bananas) |
