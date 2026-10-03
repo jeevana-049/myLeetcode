@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/jeevana-049/myLeetcode/tree/master/0908-smallest-range-i) |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/jeevana-049/myLeetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
 | [2582-pass-the-pillow](https://github.com/jeevana-049/myLeetcode/tree/master/2582-pass-the-pillow) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jeevana-049/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/jeevana-049/myLeetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
+| [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jeevana-049/myLeetcode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
