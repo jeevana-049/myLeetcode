@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/jeevana-049/myLeetcode/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jeevana-049/myLeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevana-049/myLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevana-049/myLeetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/jeevana-049/myLeetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/jeevana-049/myLeetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
