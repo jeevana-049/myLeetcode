@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/jeevana-049/myLeetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jeevana-049/myLeetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/jeevana-049/myLeetcode/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/jeevana-049/myLeetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeevana-049/myLeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/jeevana-049/myLeetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/jeevana-049/myLeetcode/tree/master/1920-build-array-from-permutation) |
 | [2582-pass-the-pillow](https://github.com/jeevana-049/myLeetcode/tree/master/2582-pass-the-pillow) |
 | [4039-sum-of-decoded-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/4039-sum-of-decoded-numbers) |
 ## Divide and Conquer
