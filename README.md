@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/jeevana-049/myLeetcode/tree/master/3206-alternating-groups-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jeevana-049/myLeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jeevana-049/myLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/jeevana-049/myLeetcode/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/jeevana-049/myLeetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4039-sum-of-decoded-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/4039-sum-of-decoded-numbers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jeevana-049/myLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
 | ------- |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jeevana-049/myLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
