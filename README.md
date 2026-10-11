@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jeevana-049/myLeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/jeevana-049/myLeetcode/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/jeevana-049/myLeetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4039-sum-of-decoded-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/4039-sum-of-decoded-numbers) |
 ## Greedy
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/jeevana-049/myLeetcode/tree/master/1920-build-array-from-permutation) |
 | [2582-pass-the-pillow](https://github.com/jeevana-049/myLeetcode/tree/master/2582-pass-the-pillow) |
+| [3925-concatenate-array-with-reverse](https://github.com/jeevana-049/myLeetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4039-sum-of-decoded-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/4039-sum-of-decoded-numbers) |
 ## Divide and Conquer
 |  |
