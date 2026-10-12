@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jeevana-049/myLeetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/jeevana-049/myLeetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jeevana-049/myLeetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/jeevana-049/myLeetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/jeevana-049/myLeetcode/tree/master/0509-fibonacci-number) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jeevana-049/myLeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jeevana-049/myLeetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jeevana-049/myLeetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeevana-049/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevana-049/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/jeevana-049/myLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jeevana-049/myLeetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
