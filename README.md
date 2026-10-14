@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/jeevana-049/myLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/jeevana-049/myLeetcode/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/jeevana-049/myLeetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jeevana-049/myLeetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4039-sum-of-decoded-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/4039-sum-of-decoded-numbers) |
 ## Greedy
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jeevana-049/myLeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jeevana-049/myLeetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jeevana-049/myLeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jeevana-049/myLeetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/jeevana-049/myLeetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Simulation
 |  |
 | ------- |
