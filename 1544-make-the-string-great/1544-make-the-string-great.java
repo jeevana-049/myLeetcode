@@ -6,12 +6,10 @@ class Solution {
             if(!stk.isEmpty() && Math.abs(stk.peek() - ch) == 32) stk.pop();
             else stk.push(ch);
         }
-        String str = "";
+        StringBuilder sb = new StringBuilder();
         while(!stk.isEmpty()) {
-            str += stk.pop();
+            sb.append(stk.pop());
         }
-        String ss = "";
-        for(int i = str.length() - 1; i >= 0; i--) ss += str.charAt(i);
-        return ss;
+        return sb.reverse().toString();
     }
 }
