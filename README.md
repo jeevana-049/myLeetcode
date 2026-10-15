@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeevana-049/myLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/jeevana-049/myLeetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jeevana-049/myLeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jeevana-049/myLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jeevana-049/myLeetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeevana-049/myLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jeevana-049/myLeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jeevana-049/myLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -468,4 +470,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jeevana-049/myLeetcode/tree/master/0202-happy-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jeevana-049/myLeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jeevana-049/myLeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
