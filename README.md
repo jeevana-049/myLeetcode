@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jeevana-049/myLeetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jeevana-049/myLeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/jeevana-049/myLeetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jeevana-049/myLeetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3941-password-strength](https://github.com/jeevana-049/myLeetcode/tree/master/3941-password-strength) |
 ## String Matching
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/jeevana-049/myLeetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Simulation
