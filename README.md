@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jeevana-049/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jeevana-049/myLeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jeevana-049/myLeetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/jeevana-049/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jeevana-049/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevana-049/myLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jeevana-049/myLeetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jeevana-049/myLeetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeevana-049/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jeevana-049/myLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevana-049/myLeetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevana-049/myLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jeevana-049/myLeetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jeevana-049/myLeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeevana-049/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevana-049/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/jeevana-049/myLeetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevana-049/myLeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jeevana-049/myLeetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/jeevana-049/myLeetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jeevana-049/myLeetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
