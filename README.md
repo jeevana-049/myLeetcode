@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeevana-049/myLeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/jeevana-049/myLeetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeevana-049/myLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/jeevana-049/myLeetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jeevana-049/myLeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/jeevana-049/myLeetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jeevana-049/myLeetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
