@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jeevana-049/myLeetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/jeevana-049/myLeetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jeevana-049/myLeetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jeevana-049/myLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevana-049/myLeetcode/tree/master/0202-happy-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevana-049/myLeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/jeevana-049/myLeetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jeevana-049/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jeevana-049/myLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jeevana-049/myLeetcode/tree/master/0242-valid-anagram) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jeevana-049/myLeetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jeevana-049/myLeetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/jeevana-049/myLeetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/jeevana-049/myLeetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
