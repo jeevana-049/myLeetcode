@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jeevana-049/myLeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jeevana-049/myLeetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/jeevana-049/myLeetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/jeevana-049/myLeetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jeevana-049/myLeetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
