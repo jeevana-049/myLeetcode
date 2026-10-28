@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jeevana-049/myLeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jeevana-049/myLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/jeevana-049/myLeetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jeevana-049/myLeetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3206-alternating-groups-i](https://github.com/jeevana-049/myLeetcode/tree/master/3206-alternating-groups-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jeevana-049/myLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/jeevana-049/myLeetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jeevana-049/myLeetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3941-password-strength](https://github.com/jeevana-049/myLeetcode/tree/master/3941-password-strength) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/jeevana-049/myLeetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevana-049/myLeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/jeevana-049/myLeetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Sliding Window
 |  |
 | ------- |
