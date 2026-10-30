@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
@@ -176,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 ## Ternary Search
 |  |
