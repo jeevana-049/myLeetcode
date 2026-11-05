@@ -12,7 +12,6 @@ class Solution {
             if(flag == true) {
                 count++;
             }
-            flag = true;
         }
         return count;
     }
