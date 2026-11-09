@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jeevana-049/myLeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevana-049/myLeetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/jeevana-049/myLeetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jeevana-049/myLeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevana-049/myLeetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jeevana-049/myLeetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/jeevana-049/myLeetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jeevana-049/myLeetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/jeevana-049/myLeetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/jeevana-049/myLeetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/jeevana-049/myLeetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeevana-049/myLeetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/jeevana-049/myLeetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jeevana-049/myLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeevana-049/myLeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
