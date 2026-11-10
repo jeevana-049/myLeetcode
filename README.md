@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jeevana-049/myLeetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/jeevana-049/myLeetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/jeevana-049/myLeetcode/tree/master/2427-number-of-common-factors) |
 | [2582-pass-the-pillow](https://github.com/jeevana-049/myLeetcode/tree/master/2582-pass-the-pillow) |
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jeevana-049/myLeetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/jeevana-049/myLeetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jeevana-049/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -558,4 +560,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/jeevana-049/myLeetcode/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jeevana-049/myLeetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/jeevana-049/myLeetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/jeevana-049/myLeetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/jeevana-049/myLeetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
