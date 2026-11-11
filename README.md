@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jeevana-049/myLeetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jeevana-049/myLeetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jeevana-049/myLeetcode/tree/master/2236-root-equals-sum-of-children) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/jeevana-049/myLeetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jeevana-049/myLeetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jeevana-049/myLeetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jeevana-049/myLeetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jeevana-049/myLeetcode/tree/master/2236-root-equals-sum-of-children) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Prefix Sum
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jeevana-049/myLeetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Ternary Search
 |  |
 | ------- |
