@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jeevana-049/myLeetcode/tree/master/0938-range-sum-of-bst) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/jeevana-049/myLeetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0965-univalued-binary-tree) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jeevana-049/myLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0100-same-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jeevana-049/myLeetcode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jeevana-049/myLeetcode/tree/master/0938-range-sum-of-bst) |
@@ -607,4 +610,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/jeevana-049/myLeetcode/tree/master/1051-height-checker) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jeevana-049/myLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
