@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/jeevana-049/myLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jeevana-049/myLeetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jeevana-049/myLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3492-maximum-containers-on-a-ship](https://github.com/jeevana-049/myLeetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jeevana-049/myLeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jeevana-049/myLeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [4039-sum-of-decoded-numbers](https://github.com/jeevana-049/myLeetcode/tree/master/4039-sum-of-decoded-numbers) |
