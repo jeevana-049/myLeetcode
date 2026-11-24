@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/jeevana-049/myLeetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jeevana-049/myLeetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jeevana-049/myLeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/jeevana-049/myLeetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jeevana-049/myLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/jeevana-049/myLeetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeevana-049/myLeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jeevana-049/myLeetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jeevana-049/myLeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/jeevana-049/myLeetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/jeevana-049/myLeetcode/tree/master/1323-maximum-69-number) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jeevana-049/myLeetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/jeevana-049/myLeetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/jeevana-049/myLeetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/jeevana-049/myLeetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/jeevana-049/myLeetcode/tree/master/2427-number-of-common-factors) |
 | [2582-pass-the-pillow](https://github.com/jeevana-049/myLeetcode/tree/master/2582-pass-the-pillow) |
