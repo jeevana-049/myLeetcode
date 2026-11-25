@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jeevana-049/myLeetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jeevana-049/myLeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevana-049/myLeetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/jeevana-049/myLeetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/jeevana-049/myLeetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/jeevana-049/myLeetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/jeevana-049/myLeetcode/tree/master/0367-valid-perfect-square) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jeevana-049/myLeetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jeevana-049/myLeetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/jeevana-049/myLeetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/jeevana-049/myLeetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/jeevana-049/myLeetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/jeevana-049/myLeetcode/tree/master/0844-backspace-string-compare) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jeevana-049/myLeetcode/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/jeevana-049/myLeetcode/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
