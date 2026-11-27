@@ -5,6 +5,6 @@ class Solution {
             n -= k;
             k--;
         }
-        return k % 2 == 0 ? true : false;
+        return k % 2 == 0;
     }
 }
