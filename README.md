@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jeevana-049/myLeetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/jeevana-049/myLeetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2325-decode-the-message](https://github.com/jeevana-049/myLeetcode/tree/master/2325-decode-the-message) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeevana-049/myLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jeevana-049/myLeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/jeevana-049/myLeetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jeevana-049/myLeetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/jeevana-049/myLeetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/jeevana-049/myLeetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2325-decode-the-message](https://github.com/jeevana-049/myLeetcode/tree/master/2325-decode-the-message) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jeevana-049/myLeetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/jeevana-049/myLeetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jeevana-049/myLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
